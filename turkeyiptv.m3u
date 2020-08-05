@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,1NTVSPOR HD 1
+#EXTINF:-1,1SPORTS HD 1
 http://46.105.233.106:8484/ntvspor.ts
 #EXTINF:-1,2beINSPORTS HD 1
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
