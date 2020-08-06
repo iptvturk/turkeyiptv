@@ -29,3 +29,7 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 http://85.132.53.55/azerbaijan/idmanhd/playlist.m3u8
 #EXTINF:-1,CBC SPORT HD
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1,SINEMA TV HD
+http://stream99.astalavistababy.xyz/selcuksportssinema/mspremium/playlist.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://stream99.astalavistababy.xyz/selcuksportsbelgesel/natgeowild/playlist.m3u8
