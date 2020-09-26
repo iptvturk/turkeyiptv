@@ -4,9 +4,9 @@ http://46.105.233.106:8484/ntvspor.ts
 #EXTINF:-1,2beINSPORTS HD 1
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:-1,beIN HD 1
-https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Turkish/3d00f47457b64c6.m3u8
 #EXTINF:-1,beIN HD 2
-https://x.birakmamseni.xyz/kaynakstreamradarco/25/strmrdr.m3u8
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Turkish/c430c4310a858ff.m3u8
 #EXTINF:-1,LIG TV HD
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:-1,S SPORT HD 1
