@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1,TR SPOR HD 
+http://46.105.233.106:8484/ntvspor.ts
 #EXTINF:-1,TR ATV HD 
 http://ch.canlitvlive.io/atv/live.m3u8
 #EXTINF:-1,TR SHOW TV HD 
